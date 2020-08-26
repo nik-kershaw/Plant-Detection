@@ -1,4 +1,4 @@
-#Plant-Detection#
+**Plant-Detection**
 
 This project is meant to detect plants in order to remove weeds, the code will use an attached webcam and in give you a window to watch what the camera seeing. Upon pressing the Q key you will send the last frame to be detected by the model. 
 
